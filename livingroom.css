@@ -1,0 +1,22 @@
+body{
+    background-image: url("download\ \(15\).jpg");
+    background-size: cover;
+    }
+    
+    .heading{
+    font-size: 17px;
+    text-align: center;
+    width:100%;
+    font-weight: bold;
+    margin: 0;
+    }
+    
+    canvas{
+    box-shadow: 1px 1px 30px black;
+    border-radius:20px;
+    border-color: brown;
+    }
+
+    #back{
+    float:right;
+    }
